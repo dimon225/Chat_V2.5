@@ -1,0 +1,135 @@
+                     				CHESS RULES
+
+The ultimate aim of the game is to win by trapping your opponent's king.
+ (What is called checkmate - more on this later.)
+
+The white pieces are always the first to move and both players (white and black) take turns alternately moving one piece at a time. 
+Movement is always required: a player cannot skip his/her turn.
+
+Each type of piece has its own method of movement (described bellow). 
+A piece may be moved to another position or may capture an opponent's piece. This is done by landing on the appropriate square with the moving piece and removing the defending piece from play.
+
+With the exception of the knight, a piece may not move over or through any of the other pieces and once a piece has been selected
+ by the player  it must be moved. If on his/her turn the player clicks on a piece and it is not selected, that means it cannot be moved.
+
+       	Pawn Movement
+
+Pawns cannot move backward or sideways, but must move straight ahead unless they are taking another piece.
+
+Generally pawns move only one square at a time. The exception is the first time a pawn is moved, 
+it may move forward two squares as long as there are no obstructing pieces. 
+A pawn cannot take a piece directly in front of him but only one at a forward angle. In the case of a capture the pawn 
+replaces the captured piece and the captured piece is removed from play.
+
+Should a pawn get all the way across the board to reach the opponent's edge of the table, it will be promoted. 
+The pawn may now become any piece that the moving player desires (except a king or another pawn). 
+Thus a player may end up having more than one queen on the board. Under normal circumstances a player will want to 
+promote his pawn to be a queen since that piece is the most powerful and flexible. The new piece is placed where
+the pawn ended its movement.
+
+There is a separate rule regarding pawns called en passant that will be described at the end of these rules. 
+
+	Rook Movement
+
+The rooks can move any number of squares in a straight line along any column or row. They CANNOT move diagonally. 
+The simplicity of the rook's movement is indeed what makes it powerful. 
+It can cover a significant area of the board and there are no areas which an opponent's piece - 
+moving one square at a time - can slip through.
+
+The rook may also make a move in conjunction with the king. This maneuver is called castling and will be
+explained after the king's movement session.
+
+	Knight's Movement
+
+The knight is the only piece on the board that may jump over other pieces. 
+That means obstructions are not a bar to movement (unless there is a friendly piece on the square where the knight would move) .
+
+The knight can be thought of as moving one square along any rank or file and then at an angle. 
+The knight's movement can also be viewed as an "L" laid out at any horizontal or vertical angle.
+
+	Bishop's Movement
+
+The bishop may move any number of squares in a diagonal direction until it is prevented from continuing by 
+another piece. If it is an opposing piece, the bishop can capture it and replace its position on the board. 
+Because of the nature of their movement, the bishops always remain on the same colored squares.
+
+	The Queen's Movement
+
+The queen is, without doubt, the most powerful piece on the chessboard. 
+She can move as many squares as she desires and in any direction (barring any obstructions). 
+
+She captures in the same way that she moves, replacing the opposing piece that got in her way. 
+(She must, of course, stop in the square of the piece she has captured - unlike the knight the queen 
+does not jump other pieces.)
+
+The queen's power is so great that she is considered to be worth more than any combination of two other pieces 
+(with the exception of two rooks). Thus it would be better, under normal circumstances, 
+to sacrifice a rook and a bishop (for example) than to give up a queen.
+
+Strategy Note: It is generally thought to be unwise to bring the queen out too early. 
+The cluttered board makes her more vulnerable to entrapment. 
+
+	King's Movement
+
+Though not the most powerful piece on the board, the king is the most vital, for once he is lost the game is lost.
+
+The king can only move one square in any direction. There is only one restriction on his movement - 
+he may not move into a position where he may be captured by an opposing piece. 
+
+Strategy Note: Guard the king closely. His loss means loss of the game. 
+He is typically not a good piece to use on offense, but will be a help in a carefully constructed defense. 
+
+	Castling
+
+Castling is a special defensive maneuver. It is the only time in the game when more than one piece 
+may be moved during a turn. This move was invented in the 1500's to help speed up the game and to 
+help balance the offense and defense.
+
+The castling move has some fairly rigid caveats:
+
+   1. It can only occur if there are no pieces standing between the king and the rook.
+   2. Neither king nor rook may have moved from its original position.
+   3. There can be no opposing piece that could possibly capture the king in his original square, 
+the square he moves through or the square that he ends the turn. 
+
+The king moves two squares toward the rook he intends to castle with (this may be either rook). 
+The rook then moves to the square through which the king passed.
+
+Strategy Note: Castling is a great aid in defensive strategy. 
+It also has a tendency to bring a powerful rook into play when under normal circumstances it might be stuck behind
+a wall of pawns. 
+
+	En Passant
+
+Perhaps the most obscure and least used moves in Chess is called En Passant. 
+It can only occur when a player exercises his option to move his pawn two squares on its initial movement. 
+When this happens, the opposing player has the option to take the moved pawn "en passant" as if it had only 
+moved one square. 
+This option, though, only stays open for one move.
+
+The en passant move was developed after pawns were allowed to move more than one square on their initial move. 
+This was done to make sure they retained some of the restrictions imposed by slow movement, 
+while at the same time speeding up the game.
+
+	End Game
+
+The game ends when one of the players captures his opponent's king, 
+when one of the player's resigns or there is a stalemate.
+
+When a player's king is threatened by an opposing piece, it is said to be "in check". 
+When a player places the opposing king in check he should announce, "check". 
+The object of a player is not merely to place his opponent's king in check but to make certain that every square 
+where the king has a possibility of movement is also covered. This is called checkmate. 
+The king is considered captured.
+
+Either player may resign at any time. This generally happens when a player loses a major piece 
+and the outlook for victory in his case appears bleak.
+
+Stalemate is considered a tie. A stalemate occurs when a player's only move is to place his own king in check, 
+but its current square is not threatened. As long as he can move another piece or the king can move to an open square, stalemate may not occur.
+
+A draw also results when the only two pieces on the board are Kings, regardless of their position. 
+If the pieces remaining on the board make check mate impossible, 
+for example one cannot checkmate an opponent with only a king and a bishop a draw would also result. 
+
+Reference: http://www.conservativebookstore.com/chess/

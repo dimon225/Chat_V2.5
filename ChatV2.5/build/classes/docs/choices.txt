@@ -1,0 +1,13 @@
+===========================My Choices==============================
+from the beginning i have dicided to use serialized objects to
+transmit messages and other important values that are stored
+in the instance variables of the serialized object its easy to extract whatever you want just by asking null or not null if it is not null that means it contains something exctract it
+and use it appropriately. It was not easy at the beginning to transmit objects its not like strings Simple DataOutputStream 
+and readUTF and writeUTF there is one big difference between objects transmission and strings is that u can only have one ObjectOutputStream and one ObjectInputStream per socket and output has to have its brother input on the other side if not it will freeze it took me a while a lot of google but in the end i found the answer, this code is purely my work may at first like it was mentioned in the document the junior programmers will not get everything but i learned much doing this chat i hope we gonna have more big pojects like that it really chalenges me i enjoy it.
+My private chat is 100% private it is not controlled by the server
+i could have made the private chat that goes through the server but i found that is not challenging enough so one my client's is the server in the public chat he has a JList client must click on one name then right click on the mouse he will see the popup appear
+with the following choices privateChat or send file in my application you can send file through the private chat as well as
+public chat i do not know if it was asked i did a bit more i have multiple threads and the only thing i am not sure of no sorry let me rephrase that i'd like to do to make the chat usefull that means
+make it external. Internal is not to usefull i find but externally i could share files with my freinds and chat to the this is by far the most intersting project to date i rally enjoyed ChessGame but 
+networking i find is the best i love it. I found an easy solution
+now my chat works in the public or private network.
